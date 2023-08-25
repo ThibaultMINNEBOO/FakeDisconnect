@@ -1,0 +1,4 @@
+vanish_permission: essentials.vanish
+vanish_commands:
+  - vanish
+  - v
