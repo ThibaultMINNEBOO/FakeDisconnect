@@ -42,7 +42,7 @@ bin/
 .DS_Store
 
 ### Gradle ###
-
+.idea/
 gradle.properties
 
 ### Test Server ###
